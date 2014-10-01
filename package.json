@@ -1,0 +1,23 @@
+{
+  "name": "mymeadowlark",
+  "version": "1.0.0",
+  "description": "demosite for nodejs and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:poperor/meadowlark.git"
+  },
+  "author": "Per Halvor Tryggeseth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poperor/meadowlark/issues"
+  },
+  "homepage": "https://github.com/poperor/meadowlark",
+  "dependencies": {
+    "express": "^4.9.4",
+    "express-handlebars": "^1.1.0"
+  }
+}
