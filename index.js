@@ -57,5 +57,5 @@ app.use(function(err, req, res) {
 });
 
 app.listen(app.get('port'), function() {
-    console.log("Ekspress startet på port" + app.get('port'))
+    console.log("Ekspress startet på port" + app.get('port'));
 });
